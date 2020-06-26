@@ -9,5 +9,5 @@
 Разработайте тесты с использованием ```assert``` и параметризовав функции внутри тестов выводите при неуспешных тестах значения, при которых они падают.
 
 
-[Инвариантная работа](https://github.com/python-basic/sem3-t4-kozorukov/blob/master/inv)
-[Вариативная работа](https://github.com/python-basic/sem3-t4-kozorukov/blob/master/var)
+1. [Инвариантная работа](https://github.com/python-basic/sem3-t4-kozorukov/blob/master/inv)
+2. [Вариативная работа](https://github.com/python-basic/sem3-t4-kozorukov/blob/master/var)
